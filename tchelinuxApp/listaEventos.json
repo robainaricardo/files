@@ -1,1 +1,25 @@
-{"eventos": [{"id": "bg", "city": "Bag\u00e9", "date": "2019-10-05", "address": "Unipampa", "url": "https://wiki.tchelinux.org/#!eventos/calendario.md"}, {"id": "pel", "city": "Pelotas", "date": "2019-08-17", "address": "Ufpel", "url": "https://github.com/tchelinux-eventos/poa/blob/master/data/pel.json"}, {"id": "poa", "city": "Porto Alegre", "date": "2019-11-30", "address": "Unisinos", "url": "https://github.com/tchelinux-eventos/poa/blob/master/data/poa.json"}][{"id": "bg", "city": "Bag\u00e9", "date": "2019-10-05", "address": "Unipampa", "url": "https://wiki.tchelinux.org/#!eventos/calendario.md"}, {"id": "pel", "city": "Pelotas", "date": "2019-08-17", "address": "Ufpel", "url": "https://github.com/tchelinux-eventos/poa/blob/master/data/pel.json"}, {"id": "poa", "city": "Porto Alegre", "date": "2019-11-30", "address": "Unisinos", "url": "https://github.com/tchelinux-eventos/poa/blob/master/data/poa.json"}]}
+{"eventos":[
+		{
+			"id": "bg", 
+			"city": "Bagé", 
+			"date": "2019-10-05", 
+			"address": "Unipampa", 
+			"url": "https://wiki.tchelinux.org/#!eventos/calendario.md"
+		},
+		{
+			"id": "pel",
+			"city": "Pelotas",
+			"date": "2019-08-17",
+			"address": "Ufpel",
+			"url": "https://github.com/tchelinux-eventos/poa/blob/master/data/pel.json"
+		},
+		{
+			"id": "poa",
+			"city": "Porto Alegre",
+			"date": "2019-11-30",
+			"address": "Unisinos",
+			"url": "https://github.com/tchelinux-eventos/poa/blob/master/data/poa.json"
+		}
+]}
+
+
