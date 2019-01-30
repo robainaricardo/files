@@ -16,7 +16,7 @@
 	{
 		"id": "poa",
 		"city": "Porto Alegre",	
-		"date": "2019-11-30"
+		"date": "2019-11-30",
 		"address": "Unisinos",
 		"url": "https://github.com/tchelinux-eventos/poa/blob/master/data/poa.json"
 	}
