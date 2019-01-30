@@ -1,24 +1,87 @@
 [
 	{
-		"id": "bg", 
-		"city": "Bagé", 
-		"date": "2019-10-05", 
-		"address": "Unipampa", 
-		"url": "https://wiki.tchelinux.org/#!eventos/calendario.md"
+		"id": "pf", 
+		"city": "Passo Fundo", 
+		"date": "2019-03-30", 
+		"address": "--", 
+		"url": "passofundo.tchelinux.org"
+	},
+	{
+		"id": "sl", 
+		"city": "Santana do Livramento", 
+		"date": "2019-04-13", 
+		"address": "Iful", 
+		"url": "livramento.tchelinux.org"
+	},
+	{
+		"id": "sc", 
+		"city": "Santa Cruz do Sul", 
+		"date": "2019-04-27", 
+		"address": "--", 
+		"url": "santacruz.tchelinux.org"
+	},
+	{
+		"id": "cs", 
+		"city": "Caxias do Sul", 
+		"date": "2019-05-11", 
+		"address": "--", 
+		"url": "caxias.tchelinux.org"
+	},
+	{
+		"id": "rg", 
+		"city": "Rio Grande", 
+		"date": "2019-05-25", 
+		"address": "--", 
+		"url": "riogrande.tchelinux.org"
+	},
+	{
+		"id": "cam", 
+		"city": "Camaquã", 
+		"date": "2019-06-08", 
+		"address": "--", 
+		"url": "camaqua.tchelinux.org"
 	},
 	{
 		"id": "pel",
 		"city": "Pelotas",
 		"date": "2019-08-17",
 		"address": "Ufpel",
-		"url": "https://github.com/tchelinux-eventos/poa/blob/master/data/pel.json"
+		"url": "pelotas.tchelinux.org"
+	},
+	{
+		"id": "ere", 
+		"city": "Erechim", 
+		"date": "2019-09-14", 
+		"address": "--", 
+		"url": "erechim.tchelinux.org"
+	},
+	{
+		"id": "bg", 
+		"city": "Bagé", 
+		"date": "2019-10-05", 
+		"address": "Unipampa", 
+		"url": "bage.tchelinux.org"
+	},
+	{
+		"id": "ben", 
+		"city": "Bento Gonçalves", 
+		"date": "2019-10-19", 
+		"address": "--", 
+		"url": "bentogoncalves.tchelinux.org"
+	},
+	{
+		"id": "sm", 
+		"city": "Santa Maria", 
+		"date": "2019-11-09", 
+		"address": "--", 
+		"url": "santamaria.tchelinux.org"
 	},
 	{
 		"id": "poa",
 		"city": "Porto Alegre",	
 		"date": "2019-11-30",
 		"address": "Unisinos",
-		"url": "https://github.com/tchelinux-eventos/poa/blob/master/data/poa.json"
+		"url": "portoalegre.tchelinux.org"
 	}
 ]
 
